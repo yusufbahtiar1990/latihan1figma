@@ -13,32 +13,77 @@
 }
 
 .copy-container1 h1 {
+    position: absolute;
+    width: 241px;
+    height: 172px;
+    left: 464px;
+    top: 320px;
+
     font-family: 'MADE Tommy Soft';
     font-style: normal;
     font-weight: 300;
     font-size: 138.4px;
     line-height: 172px;
+    /* identical to box height */
+
+
     color: #FFFFFF;
-    padding-top: 320px;
-    padding-left: 464px;
+
 }
 
 .copy-container1 h2 {
+    position: absolute;
+    width: 241px;
+    height: 172px;
+    left: 728px;
+    top: 320px;
+
     font-family: 'MADE Tommy Soft';
     font-style: normal;
     font-weight: 300;
     font-size: 138.4px;
     line-height: 172px;
+    /* identical to box height */
+
+
     color: #FFFFFF;
-    padding-left: 464px;
+    margin-left: 23px;
 }
 
 .copy-container1 h3 {
+    position: absolute;
+    width: 510px;
+    height: 172px;
+    left: 464px;
+    top: 437px;
+
     font-family: 'MADE Tommy Soft';
     font-style: normal;
     font-weight: 300;
     font-size: 138.4px;
     line-height: 172px;
+    /* identical to box height */
+
+
     color: #FFFFFF;
-    padding-left: 698px;
 }
+
+.copy-container1 h4 {
+    position: absolute;
+    width: 276px;
+    height: 172px;
+    left: 698px;
+    top: 549px;
+
+    font-family: 'MADE Tommy Soft';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 138.4px;
+    line-height: 172px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    margin-left: 35px;
+}
+
