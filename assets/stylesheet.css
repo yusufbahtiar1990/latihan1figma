@@ -50,3 +50,40 @@
     margin-left: 23px;
 }
 
+.copy-container1 h3 {
+    position: absolute;
+    width: 510px;
+    height: 172px;
+    left: 464px;
+    top: 437px;
+
+    font-family: 'MADE Tommy Soft';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 138.4px;
+    line-height: 172px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.copy-container1 h4 {
+    position: absolute;
+    width: 276px;
+    height: 172px;
+    left: 698px;
+    top: 549px;
+
+    font-family: 'MADE Tommy Soft';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 138.4px;
+    line-height: 172px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    margin-left: 35px;
+}
+
