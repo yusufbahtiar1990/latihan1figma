@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.copy-container1 {
+    position: absolute;
+    width: 1442px;
+    height: 1385px;
+    background-image: url(sustainable-lifestyle-zero-waste-plastic-free-sh-2022-02-02-04-51-29-utc\ 1.png);
+    
+}
+
+.copy-container1 h1 {
+    font-family: 'MADE Tommy Soft';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 138.4px;
+    line-height: 172px;
+    color: #FFFFFF;
+    padding-top: 320px;
+    padding-left: 464px;
+}
+
+.copy-container1 h2 {
+    font-family: 'MADE Tommy Soft';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 138.4px;
+    line-height: 172px;
+    color: #FFFFFF;
+    padding-left: 464px;
+}
+
+.copy-container1 h3 {
+    font-family: 'MADE Tommy Soft';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 138.4px;
+    line-height: 172px;
+    color: #FFFFFF;
+    padding-left: 698px;
+}
